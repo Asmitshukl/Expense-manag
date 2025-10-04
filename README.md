@@ -1,5 +1,5 @@
 # Expense-manag
-Expense Wal is a web-based expense reimbursement management system that helps companies automate and simplify the process of submitting, approving, and managing employee expenses.
+Expense manageris a web-based expense reimbursement management system that helps companies automate and simplify the process of submitting, approving, and managing employee expenses.
 Key Features
 
 Role-Based Access — Admin, Manager, and Employee roles with specific permissions.
